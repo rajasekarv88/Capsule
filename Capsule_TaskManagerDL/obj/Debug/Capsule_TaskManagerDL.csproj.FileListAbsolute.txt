@@ -23,3 +23,10 @@ C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule
 C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
 C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb

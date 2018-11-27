@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule_TaskManager", "Capsule_TaskManager\Capsule_TaskManager.csproj", "{E07484BE-863E-4FC8-8739-75ED94C8FC48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule_TaskManager.Tests", "Capsule_TaskManager.Tests\Capsule_TaskManager.Tests.csproj", "{FFE96554-2355-4247-9A2F-71D66A37971E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{53F6EEA7-CA3C-487C-BFD9-24923B2E929F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule_TaskManagerDL", "Capsule_TaskManagerDL\Capsule_TaskManagerDL.csproj", "{2BB0E38C-090B-4C7F-A3B7-10B36BACEB78}"
@@ -15,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule_TaskManagerBL", "Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit_Capsule_TaskManager.Tests", "Nunit_Capsule_TaskManager.Tests\Nunit_Capsule_TaskManager.Tests.csproj", "{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBench_Capsule.Tests", "..\..\..\..\..\..\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\NBench_Capsule.Tests\NBench_Capsule.Tests.csproj", "{5418487B-5C50-4781-83B6-2B5AF0477837}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBench_Capsule.Tests", "NBench_Capsule.Tests\NBench_Capsule.Tests.csproj", "{5418487B-5C50-4781-83B6-2B5AF0477837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +25,6 @@ Global
 		{E07484BE-863E-4FC8-8739-75ED94C8FC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E07484BE-863E-4FC8-8739-75ED94C8FC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E07484BE-863E-4FC8-8739-75ED94C8FC48}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FFE96554-2355-4247-9A2F-71D66A37971E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FFE96554-2355-4247-9A2F-71D66A37971E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FFE96554-2355-4247-9A2F-71D66A37971E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FFE96554-2355-4247-9A2F-71D66A37971E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2BB0E38C-090B-4C7F-A3B7-10B36BACEB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2BB0E38C-090B-4C7F-A3B7-10B36BACEB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BB0E38C-090B-4C7F-A3B7-10B36BACEB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
