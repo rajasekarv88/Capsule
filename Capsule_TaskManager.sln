@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule_TaskManagerBL", "Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit_Capsule_TaskManager.Tests", "Nunit_Capsule_TaskManager.Tests\Nunit_Capsule_TaskManager.Tests.csproj", "{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBench_Capsule.Tests", "..\..\..\..\..\..\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\NBench_Capsule.Tests\NBench_Capsule.Tests.csproj", "{5418487B-5C50-4781-83B6-2B5AF0477837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5418487B-5C50-4781-83B6-2B5AF0477837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5418487B-5C50-4781-83B6-2B5AF0477837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5418487B-5C50-4781-83B6-2B5AF0477837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5418487B-5C50-4781-83B6-2B5AF0477837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
