@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule_TaskManagerDL", "Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule_TaskManagerBL", "Capsule_TaskManagerBL\Capsule_TaskManagerBL.csproj", "{4C36BD47-5F31-4936-A80F-FB037FBFBC48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBench_Capsule.Tests", "..\..\NBench_Capsule.Tests\NBench_Capsule.Tests.csproj", "{5418487B-5C50-4781-83B6-2B5AF0477837}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit_Capsule_TaskManager.Tests", "Nunit_Capsule_TaskManager.Tests\Nunit_Capsule_TaskManager.Tests.csproj", "{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}"
 EndProject
 Global
@@ -39,10 +37,6 @@ Global
 		{4C36BD47-5F31-4936-A80F-FB037FBFBC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C36BD47-5F31-4936-A80F-FB037FBFBC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C36BD47-5F31-4936-A80F-FB037FBFBC48}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5418487B-5C50-4781-83B6-2B5AF0477837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5418487B-5C50-4781-83B6-2B5AF0477837}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5418487B-5C50-4781-83B6-2B5AF0477837}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5418487B-5C50-4781-83B6-2B5AF0477837}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8034B572-D5F7-4EDD-A4FB-AAF6F7614112}.Release|Any CPU.ActiveCfg = Release|Any CPU
